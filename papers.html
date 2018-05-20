@@ -20,7 +20,7 @@
       var source = ""
 
       for (var i = 0; i < sourceUrls.length; i++) {
-        xmlhttp.open('GET', sourceUrls[i], true);
+        xmlhttp.open('GET', sourceUrls[i], false);
         xmlhttp.send();
 
         source += xmlhttp.responseText;
