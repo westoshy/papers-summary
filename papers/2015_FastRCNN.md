@@ -1,5 +1,5 @@
-# Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
-## Kaiming He et al. Microsoft, arXiv:1406.4729 (2014)
+# temp
+## authors et al. xxx, arXiv:1406.4729 (2014)
 
 <center>
 <img src="../dummy.png" alt="image area" width=1050 height=200>
@@ -9,6 +9,7 @@
 ### 要旨
 
 ### 先行手法との差
+R-CNN/SPPnetでfine-tuning/classification/bounding box regressionを分けて学習する必要があったが，Fast R-CNNではこれらを解決するための手法を提案する．
 
 ### 提案技術の要点
 

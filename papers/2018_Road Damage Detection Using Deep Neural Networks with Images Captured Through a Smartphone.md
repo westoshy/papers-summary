@@ -2,7 +2,7 @@
 ## Hiroya Maeda et al. University of Tokyo, arXiv:1801.09454 (2018)
 
 <center>
-<img src="../fig/2018_Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone.png" alt="image area" width=1050 height=200>
+<img src="fig/2018_Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone.png" alt="image area" width=1050 height=200>
 </center> 
 
 .left-column[
@@ -26,6 +26,3 @@ OSはUbuntu 16.04 NVIDIA GRID K520 GPU(15GB RAM Memory)を学習環境として�
 - [論文リンク](https://arxiv.org/abs/1801.09454)　[(codes)](https://github.com/sekilab/RoadDamageDetector/)
 - [Road crack detection using deep convolutional neural network, ICIP 2016](https://ieeexplore.ieee.org/abstract/document/7533052/)
 ]
-
-![:include](./template.md)
-
